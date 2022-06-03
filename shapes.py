@@ -47,7 +47,7 @@ class Rectangle:
         return A
 
     def rectperimeter(self):
-        P = 2(self.width*self.length) 
+        P = 2(self.width+self.length) 
         return P   
 
 
