@@ -3,7 +3,6 @@
 #It has a method area that returns the area (A) of the circle using the formula A=πr2
 #It has a method to calculate circumference (c) using the formula C=2πr
 import math
-import re
 
 class Circle:
     def __init__ (self,r):
